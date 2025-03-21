@@ -2,7 +2,7 @@
 
 A comprehensive RESTful API for a product catalog system designed to power e-commerce platforms. This API provides robust endpoints for managing products, categories, inventory, and reporting.
 
-![Product Catalog API Swagger UI Overview](./docs/images/swagger-overview.png)
+![Product Catalog API Swagger UI Overview](/docs/images/swagger-endpoints.png)
 
 ## Table of Contents
 
@@ -112,7 +112,6 @@ The API is documented using Swagger/OpenAPI. Once the server is running, you can
 http://localhost:3000/api-docs
 ```
 
-![Swagger UI Endpoints](/docs/images/swagger-endpoints.png)
 ![Swagger UI Endpoints](/docs/images/swagger-endpoints1.png)
 
 The documentation provides a complete overview of all available endpoints, request/response formats, and allows you to test the API directly from the browser.
